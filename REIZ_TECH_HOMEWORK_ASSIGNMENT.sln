@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LesserAngleBetweenHoursAndMinutes", "LesserAngleBetweenHoursAndMinutes\LesserAngleBetweenHoursAndMinutes.csproj", "{6E83590E-2543-4957-A6A3-81C77FBF9615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateDepth", "CalculateDepth\CalculateDepth.csproj", "{87D82E1C-1899-478B-8907-8F6A808CBE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E83590E-2543-4957-A6A3-81C77FBF9615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E83590E-2543-4957-A6A3-81C77FBF9615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E83590E-2543-4957-A6A3-81C77FBF9615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E83590E-2543-4957-A6A3-81C77FBF9615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D82E1C-1899-478B-8907-8F6A808CBE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D82E1C-1899-478B-8907-8F6A808CBE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D82E1C-1899-478B-8907-8F6A808CBE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D82E1C-1899-478B-8907-8F6A808CBE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC095B7-3BCE-4A78-B97A-401BB8C923D9}
+	EndGlobalSection
+EndGlobal
